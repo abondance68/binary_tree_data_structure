@@ -15,3 +15,7 @@ In this figure, the **root node** is 5 and it has two children : 3 and 8.<br>
 
 The **left child** of 5 , which is 3, has it own two children , 1 and 4 .<br>
 The **right child** of 5, which is 8, has its own two  children, 7 and 9 .
+
+The codebase  in this repo, will show you how to create a binary tree and how to traverse it in order to print all of its elements 
+as proof that Go can be used for creating a tree data structure. Therefore, it will not implement the full functionality of a binary tree, 
+ which also includes deleting a tree node and balancing a tree.
