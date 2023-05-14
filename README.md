@@ -7,3 +7,11 @@ Each node can have zero, one, or two child nodes, forming a hierarchical structu
 
 
 Here's an example of a binary tree:<br> 
+![BinaryTree](binary_tree.png)
+
+
+
+In this figure, the **root node** is 5 and it has two children : 3 and 8.<br>
+
+The **left child** of 5 , which is 3, has it own two children , 1 and 4 .<br>
+The **right child** of 5, which is 8, has its own two  children, 7 and 9 .
